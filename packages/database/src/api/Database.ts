@@ -444,4 +444,3 @@ export function enableLogging(
 ): void {
   enableLoggingImpl(logger, persistent);
 }
-
